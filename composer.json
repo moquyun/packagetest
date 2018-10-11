@@ -1,0 +1,16 @@
+{
+    "name": "moquyun/test",
+    "description": "test",
+    "authors": [
+        {
+            "name": "aex",
+            "email": "moquyun@gnics.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Aex\\Packagetest\\": "src/"
+        }
+    }
+}
